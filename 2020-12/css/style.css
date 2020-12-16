@@ -17,6 +17,7 @@ h1 {
 
 .char, .word {
   display: inline-block;
+  font-size: 50px;
 }
 
 .splitting .char {
